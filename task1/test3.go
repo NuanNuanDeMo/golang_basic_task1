@@ -5,6 +5,10 @@ import (
 	"strconv"
 )
 
+/*
+基本值类型
+加一
+*/
 func main() {
 	nums := []int{1, 2, 3, 4, 5}
 	fmt.Println(addnumber(nums[:]))

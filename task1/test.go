@@ -2,6 +2,10 @@ package main
 
 import "fmt"
 
+/*
+	回文数
+*/
+
 func main() {
 	// 出现过一次的数字
 	var singlenum int

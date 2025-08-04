@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+/*
+	两数之和
+*/
 func main() {
 	nums := []int{3, 2, 4}
 	arr := addnums(nums[:], 6)

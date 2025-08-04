@@ -2,6 +2,10 @@ package main
 
 import "fmt"
 
+/*
+26. 删除有序数组中的重复项
+*/
+
 func main() {
 	nums := []int{1, 1, 2, 2, 3, 3, 4}
 	lenght, newnums := repeatCheck(nums)

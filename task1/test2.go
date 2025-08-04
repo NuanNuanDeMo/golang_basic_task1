@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+/*
+	最长公共前缀
+*/
 func main() {
 	arr := [3]string{"flower", "flow", "floight"}
 	arr1 := [3]string{"dog", "racecar", "car"}

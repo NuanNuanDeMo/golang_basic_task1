@@ -5,6 +5,10 @@ import (
 	"sort"
 )
 
+/*
+56. 合并区间
+*/
+
 func main() {
 	intervals := [][]int{{1, 3}, {2, 6}, {8, 10}, {15, 18}}
 	ret := mergeArr(intervals)
